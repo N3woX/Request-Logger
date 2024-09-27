@@ -17,6 +17,15 @@
 - Designed for developers and enthusiasts looking to monitor web traffic and understand network interactions.
 
 ## Installation
+
+To install and run the Request Logger, ensure you have the following prerequisites:
+
+### Requirements
+- **Python**: Make sure Python 3.x is installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
+- **Pip**: The package installer for Python (should be included with Python installation).
+- **PyQt5**: The GUI framework used in this project.
+- Additional Python libraries as specified in the `requirements.txt`.
+
 To install and run the Request Logger:
 
 1. Clone the repository:
@@ -34,6 +43,9 @@ To install and run the Request Logger:
 ## ⚠️ Warning
 This is **Version 1 (V1)** of the Request Logger, and there may be bugs or issues. 
 
-Please **don’t hesitate to contact me** on Discord if you encounter any bugs or have suggestions for improvements. 
+I am not a professional developer; I am just a passionate individual trying to create something useful. Please **don’t hesitate to contact me** on Discord if you encounter any bugs or have suggestions for improvements. Your feedback is invaluable!
 
 Discord: **n3wox_**
+
+## Acknowledgments
+Special thanks to the open-source community for their contributions and to anyone who provides feedback or suggestions to improve this project.
