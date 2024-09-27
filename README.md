@@ -25,7 +25,7 @@ To install and run the Request Logger:
 2. Navigate into the project directory:
    cd Request-Logger
 
-3. Install the required dependencies (if applicable):
+3. Install the required dependencies:
    pip install -r requirements.txt
 
 4. Run the application:
