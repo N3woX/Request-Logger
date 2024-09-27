@@ -17,21 +17,23 @@
 - Designed for developers and enthusiasts looking to monitor web traffic and understand network interactions.
 
 ## Installation
-
 To install and run the Request Logger:
 
 1. Clone the repository:
-
    git clone https://github.com/N3woX/Request-Logger.git
 
 2. Navigate into the project directory:
-
    cd Request-Logger
 
 3. Install the required dependencies (if applicable):
-
    pip install -r requirements.txt
 
 4. Run the application:
-
    python main.py
+
+## ⚠️ Warning
+This is **Version 1 (V1)** of the Request Logger, and there may be bugs or issues. 
+
+Please **don’t hesitate to contact me** on Discord if you encounter any bugs or have suggestions for improvements. 
+
+Discord: **n3wox_**
