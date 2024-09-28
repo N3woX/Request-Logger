@@ -21,6 +21,7 @@
 To install and run the Request Logger, ensure you have the following prerequisites:
 
 ### Requirements
+- **Git**: Make sure Git is installed and set in your system environement. If not download it from [Git-Download](https://git-scm.com/downloads).
 - **Python**: Make sure Python 3.x is installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
 - **Pip**: The package installer for Python (should be included with Python installation).
 - **PyQt5**: The GUI framework used in this project.
